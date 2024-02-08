@@ -1,1 +1,2 @@
 function loguin (){...}
+function checkPassword(){...}
