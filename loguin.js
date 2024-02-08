@@ -1,2 +1,1 @@
 function loguin (){...}
-function checkPassword(){...}
