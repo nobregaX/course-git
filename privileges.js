@@ -1,1 +1,2 @@
 function createPrivilege(){...}
+function addCache(){...}
