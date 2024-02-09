@@ -1,0 +1,2 @@
+function forgotPassword(){...}
+function sendMail{...}
