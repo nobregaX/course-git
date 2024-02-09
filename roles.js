@@ -1,1 +1,2 @@
 function checkRole(){...}
+function createRole(){...}
