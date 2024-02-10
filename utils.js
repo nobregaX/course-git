@@ -1,1 +1,2 @@
 function formatNumber(){...}
+function formatText(){...}
