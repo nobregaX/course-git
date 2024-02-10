@@ -1,4 +1,4 @@
-function save(){...bug...addCache()}
+function save(){...addCache()}
 function update(){...}
 function remove(){...}
 function addCache(){...}
