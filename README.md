@@ -1,1 +1,1 @@
-# Repositório do curso Git Básico ao Avançado 2024
+# Basic to Advanced Git Course Repository 2024
